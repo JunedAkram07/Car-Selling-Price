@@ -10,4 +10,4 @@ create a new environment--
 
 # conda activate venv commnd use for activate the environment
 
-#pip install -r requirement.txt
+# pip install -r requirement.txt
