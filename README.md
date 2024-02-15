@@ -9,3 +9,5 @@ create a new environment--
 [facebook](www.facebook.com)
 
 # conda activate venv commnd use for activate the environment
+
+#pip install -r requirement.txt
